@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ComradeWolfskii
+- 👋 Hi, I’m @TristanGian
 - 👀 I’m interested in ... artificial intelligence, robotics and engineering
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Java, Python, C#
 - 💞️ I’m looking to collaborate on ... idk
-- 📫 How to reach me ... comradewolfskii@gmail.com
 
 <!---
 ComradeWolfskii/ComradeWolfskii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
